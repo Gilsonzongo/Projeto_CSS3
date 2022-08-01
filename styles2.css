@@ -1,0 +1,33 @@
+body, ul {
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+a:hover {
+    background: #3A3A3A 0% 0% no-repeat padding-box;
+}
+
+
+
+#circle__logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#header {
+    display: flex;
+    box-sizing: border-box;/*soma o heigth e o padding*/
+    height: 70px; /*tamanho do menu*/
+    padding: 1rem; /*distancioamento*/
+    display: flex;/**/
+    align-items: center; /*alinhado ao centro*/
+    justify-content: space-between; /*espaçamento entre os itens*/
+}
+#menu {
+    display: flex;
+    list-style: none; 
+    gap: .8rem; /*Distancia de espaço*/
+}

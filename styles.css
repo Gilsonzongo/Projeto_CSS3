@@ -1,0 +1,887 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.circle-image {
+    display: block;
+    border-radius: 50%;
+    position: fixed;
+    top: 3px;
+    left: 554px;
+    width: 58px;
+    height: 58px;
+    gap: 10px;
+    /* UI Properties */
+    background: #000000 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+header{
+    /* Layout Properties */
+    top: 0px;
+    left: 1px;
+    width: 1919px;
+    height: 67px;
+    /* UI Properties */
+    background: #3A3A3A 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.menu{
+    display: inline;
+    text-align: center;
+    position: sticky;
+    /* Layout Properties */
+    top: 26px;
+    left:  888px;
+    width: 104px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    /*text-decoration: underline;*/
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+  }
+.menu a{
+    color: #FFFFFF;
+    line-height: 50%;
+   
+}
+div.menu01{
+    display: inline;
+    position: fixed;
+    /* Layout Properties */
+    top: 0.5px;
+    left: 1px;
+    width: 1919px;
+    height: 377px;
+    background-image: url("div__menu1.jpg");
+    background-repeat: unset;
+    background-position: right, left; 
+    /* UI Properties*/
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.circle-image2{
+    display: block;
+    border-radius: 50%;
+    position: fixed;
+    top: 204px;
+    left: 447px;
+    width: 261px;
+    height: 306px;
+    background: #131313 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    
+}
+div.meunome{
+    display: block;
+    position: fixed;
+    top: 338px;
+    left: 748px;
+    width: 856px;
+    height: 73px;
+    text-align: left;
+    font: normal normal bold 28px/73px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+}
+
+div.nome_front{
+    display: block;
+    position: fixed;
+    top: 420px;
+    left: 757px;
+    width: 513px;
+    height: 46px;
+    text-align: left;
+    font: italic normal 300 34px/46px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+
+}
+div.nome_ola{
+    display: block;
+    position: fixed;
+    top: 471px;
+    left: 752px;
+    width: 65px;
+    height: 46px;
+    text-align: left;
+    font: normal normal bold 34px/46px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+
+}
+.linkedin{
+    display: block;
+    border-radius: 50%;
+    list-style-type: disc;
+    list-style: none;
+    position: fixed;
+    object-fit: cover;
+    top: 473px;
+    left: 550px;
+    width: 58px;
+    height: 58px;
+    /* UI Properties*/
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #070707;
+    opacity: 1;
+}
+
+.link{
+    display: block;
+    position: sticky;
+    list-style: none;
+    top: 648px;
+    left: 487px;
+    width: 36px;
+    height: 8px;
+    text-align: left;
+    font: normal normal 600 14px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #060505;
+    opacity: 1;
+
+}   
+
+
+.curriculo{
+    display: block;
+    border-radius: 50%;
+    list-style-type: disc;
+    list-style: none;
+    position: fixed;
+    object-fit: cover;
+    top: 473px;
+    left: 621px;
+    width: 58px;
+    height: 58px;
+    /* UI Properties*/
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #070707;
+    opacity: 1;
+}
+.link2{
+    display: block;
+    position: sticky;
+    list-style: none;
+    top: 648px;
+    left: 487px;
+    width: 36px;
+    height: 8px;
+    text-align: left;
+    font: normal normal 600 14px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #060505;
+    opacity: 1;
+
+}   
+.github{
+    display: block;
+    border-radius: 50%;
+    list-style-type: disc;
+    list-style: none;
+    position: fixed;
+    object-fit: cover;
+    top: 473px;
+    left: 481px;
+    width: 58px;
+    height: 58px;
+    /* UI Properties*/
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #070707;
+    opacity: 1;
+}
+.link3{
+    display: block;
+    position: sticky;
+    list-style: none;
+    top: 648px;
+    left: 487px;
+    width: 36px;
+    height: 8px;
+    text-align: left;
+    font: normal normal 600 14px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #060505;
+    opacity: 1;
+
+}   
+
+div.paragrafo{
+    display: block;
+    position: sticky;
+    /* Layout Properties */
+    top: 600px;
+    left: 848px;
+    width: 518px;
+    height: 305px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+/*2 Parte Formação */
+div.Formação{
+    display: inline-flex;
+    letter-spacing: normal;
+    position: fixed;
+        /* Layout Properties */
+    top: 750px;
+    left: 1px;
+    width: 1919px;
+    height: 353px;
+    /* UI Properties */
+    background: #DEDEDE 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+div.Forcao{
+    display: inline-flex;
+    position: fixed;
+    top: 706px;
+    left: 479px;
+    width: 230px;
+    height: 73px;
+    text-align: center;
+    font: normal normal 300 55px/73px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+
+}
+div.ano{
+
+    display: block;
+    position: fixed;
+    top: 861px;
+    left: 544px;
+    width: 109px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 13px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+div.curso{
+    display: block;
+    position: fixed;
+    top: 877px;
+    left: 545px;
+    width: 844px;
+    height: 31px;
+    text-align: left;
+    font: normal normal bold 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+div.faculdade{
+    display: block;
+    position: fixed;
+    top: 922px;
+    left: 544px;
+    width: 558px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 13px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+div.ano_2{
+    display: block;
+    position: fixed;
+    top: 976px;
+    left: 544px;
+    width: 109px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 13px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+div.curso_2{
+    display: block;
+    position: fixed;
+    top: 992px;
+    left: 545px;
+    width: 844px;
+    height: 31px;
+    text-align: left;
+    font: normal normal bold 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+
+}
+div.faculdade_2{
+    display: block;
+    position: fixed;
+    top: 1032px;
+    left: 544px;
+    width: 558px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 13px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+
+}
+/* 3 Parte Experiência*/
+
+div.Experiência{
+    display: block;
+    position: fixed;
+    top: 1105px;
+    left: 1px;
+    width: 1919px;
+    height: 366px;
+    background: #434343 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+div.Exper{
+    display: block;
+    position: fixed;
+    top: 1062px;
+    left: 477px;
+    width: 258px;
+    height: 73px;
+    text-align: center;
+    font: normal normal 300 55px/73px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+}
+div.anoexp{
+    display: block;
+    position: fixed;
+    top: 1225px;
+    left: 525px;
+    width: 109px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 13px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+}
+div.cargo{
+    display: block;
+    position: fixed;
+    top: 1241px;
+    left: 525px;
+    width: 844px;
+    height: 31px;
+    text-align: left;
+    font: normal normal bold 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+}
+div.empresa{
+    display: block;
+    position: fixed;
+    top: 1278px;
+    left: 525px;
+    width: 844px;
+    height: 31px;
+    text-align: left;
+    font: normal normal bold 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+
+
+}
+div.anoexp1{
+    display: block;
+    position: fixed;
+    top: 1341px;
+    left: 525px;
+    width: 109px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 13px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+}
+div.cargo1{
+    display: block;
+    position: fixed;
+    top: 1356px;
+    left: 525px;
+    width: 844px;
+    height: 31px;
+    text-align: left;
+    font: normal normal bold 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+}
+div.empresa1{
+    display: block;
+    position: fixed;
+    top: 1391px;
+    left: 525px;
+    width: 844px;
+    height: 31px;
+    text-align: left;
+    font: normal normal bold 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #999999;
+    opacity: 1;
+}
+/* 4 Parte Projetos*/
+.content{
+    display: block;
+    position: fixed;
+    top: 1596px;
+    left: 116px;
+    width: 841px;
+    height: 71px;
+    text-align: left;
+    font: normal normal bold 33px/40px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+  /*  display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;*/
+}
+.card {
+    display: inline;
+    background: #FFF;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px #26395338;
+    height: auto;
+    top: 1596px;
+    left: 116px;
+    width: 841px;
+    height: 71px;
+}
+.midiaCard{
+    background: url(https://atmdigital.com.br/wp-content/uploads/2017/06/100450-gerenciamento-de-projetos-importancia-como-funciona-e-mais.jpg)center/cover;
+    height: 256px;
+    width: 377px;
+
+}
+
+h2.title {
+    top: 1927px;
+    left: 565px;
+    width: 167px;
+    height: 28px;
+    text-align: left;
+    font: normal normal bold 40px/28px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+}
+
+p.informção {
+    top: 1963px;
+    left: 565px;
+    width: 232px;
+    height: 76px;
+    text-align: left;
+    font: normal normal normal 15px/19px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.actionCard {
+    display: contents;
+    top: 2070px;
+    left: 499px;
+    width: 128px;
+    height: 49px;
+    background: #070707 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+/* 4-2 Projto*/
+.content2{
+    display: block;
+    position: fixed;
+    top: 1604px;
+    left: 749px;
+    width: 841px;
+    height: 71px;
+    text-align: left;
+    font: normal normal bold 33px/40px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+  /*  display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;*/
+}
+.card2{
+    display: inline;
+    background: #FFF;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px #26395338;
+    height: auto;
+    top: 1596px;
+    left: 116px;
+    width: 841px;
+    height: 71px;
+}
+.midiaCard2{
+    background: url(https://storage.googleapis.com/oitchaublog/2021/06/680c173c-ciclo-de-vida-de-um-projeto-2.jpg)center/cover;
+    height: 256px;
+    width: 377px;
+
+}
+
+h2.title2{
+    top: 1927px;
+    left: 565px;
+    width: 167px;
+    height: 28px;
+    text-align: left;
+    font: normal normal bold 40px/28px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+}
+
+p.informção2{
+    top: 1963px;
+    left: 565px;
+    width: 232px;
+    height: 76px;
+    text-align: left;
+    font: normal normal normal 15px/19px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.actionCard2{
+    display: contents;
+    top: 2070px;
+    left: 499px;
+    width: 128px;
+    height: 49px;
+    background: #070707 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+/*4-3 Projeto*/
+
+.content3{
+    display: block;
+    position: fixed;
+    top: 1604px;
+    left: 1340px;
+    width: 841px;
+    height: 71px;
+    text-align: left;
+    font: normal normal bold 33px/40px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+  /*  display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;*/
+}
+.card3{
+    display: inline;
+    background: #FFF;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px #26395338;
+    height: auto;
+    top: 1596px;
+    left: 116px;
+    width: 841px;
+    height: 71px;
+}
+.midiaCard3{
+    background: url(https://certi.org.br/blog/wp-content/uploads/2017/08/projetos-inovadores.jpg)center/cover;
+    height: 256px;
+    width: 377px;
+
+}
+
+h2.title3{
+    top: 1927px;
+    left: 565px;
+    width: 167px;
+    height: 28px;
+    text-align: left;
+    font: normal normal bold 40px/28px Segoe UI;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+}
+
+p.informção3{
+    top: 1963px;
+    left: 565px;
+    width: 232px;
+    height: 76px;
+    text-align: left;
+    font: normal normal normal 15px/19px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.actionCard3{
+    display: contents;
+    top: 2070px;
+    left: 499px;
+    width: 128px;
+    height: 49px;
+    background: #070707 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+/* 5 Parte Contato*/
+
+form.contato {
+    display: inline-flex;
+    position: fixed;
+    top: 2100px;
+    left: 0px;
+    width: 1926px;
+    height: 753px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+h2.contato {
+    display: block;
+    position: sticky;
+    top: 2197px;
+    left: 554px;
+    width: 185px;
+    height: 73px;
+    text-align: left;
+    font: normal normal 300 55px/73px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+p.contiudo {
+    display: block;
+    position: sticky;
+    margin: inherit;
+    top: 2336px;
+    left: 554px;
+    width: 398px;
+    height: 429px;
+    text-align: left;
+    font: normal normal normal 25px/28px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+
+form.mensagem {
+    display: inline;
+    position: fixed;
+    margin: auto;
+    top: 2147px;
+    left: 1358px;
+    width: 398px;
+    height: 645px;
+    text-align: left;
+}
+
+label.nome0 {
+    display: block;
+    position: fixed;
+    top: 2288px;
+    left: 1357px;
+    width: 41px;
+    height: 17px;
+    text-align: left;
+    font: normal normal bold 30px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.caixa0 {
+    display: inline-flex;
+    position: sticky;
+        /* Layout Properties */
+    top: 2315px;
+    left: 968px;
+    width: 398px;
+    height: 34px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+label.e-mail {
+    display: block;
+    position: fixed;
+    top: 2370px;
+    left: 1357px;
+    width: 118px;
+    height: 17px;
+    text-align: left;
+    font: normal normal bold 30px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.email {
+    display: inline-flex;
+    position: sticky;
+    top: 2315px;
+    left: 968px;
+    width: 398px;
+    height: 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+input#\ email\ {
+    display: block;
+    position: fixed;
+    top: 2404px;
+    left: 1352px;
+    width: 398px;
+    height: 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+label.assunto {
+    display: block;
+    position: fixed;
+    top: 2458px;
+    left: 1357px;
+    width: 118px;
+    height: 17px;
+    text-align: left;
+    font: normal normal bold 30px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+input#\ assunto\ {
+    display: block;
+    position: fixed;
+    top: 2488px;
+    left: 1352px;
+    width: 398px;
+    height: 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+label.mensagem {
+    display: block;
+    position: fixed;
+    top: 2555px;
+    left: 1357px;
+    width: 118px;
+    height: 17px;
+    text-align: left;
+    font: normal normal bold 30px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+textarea#\ note\ {
+    display: block;
+    position: fixed;
+    top: 2587px;
+    left: 1351px;
+    width: 398px;
+    height: 133px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+.enviar {
+    display: block;
+    position: fixed;
+    top: 2754px;
+    left: 1487px;
+    width: 122px;
+    height: 34px;
+    background: #585858 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+button {
+    display: ;
+    position: fixed;
+    top: 2766px;
+    left: 1524px;
+    width: 44px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 12px/16px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+span.twitter {
+    display: block;
+    border-radius: 50%;
+    list-style: none;
+    position: fixed;
+    object-fit: cover;
+    top: 2664px;
+    left: 550px;
+    width: 58px;
+    height: 58px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #070707;
+    opacity: 1;
+}
+span.facebook {
+    display: block;
+    border-radius: 50%;
+    list-style: none;
+    position: fixed;
+    object-fit: cover;
+    top: 2664px;
+    left: 731px;
+    width: 58px;
+    height: 58px;
+    background: #e12929 0% 0% no-repeat padding-box;
+    border: 1px solid #070707;
+    opacity: 1;
+}
