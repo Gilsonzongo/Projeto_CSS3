@@ -1,0 +1,129 @@
+h1.meunome {
+    position: absolute;
+    top: 380px;
+    left: 848px;
+    width: 592px;
+    height: 73px;
+    text-align: left;
+    font: normal normal bold 55px/73px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+h2.front {
+    position: absolute;
+    top: 453px;
+    left: 848px;
+    width: 287px;
+    height: 46px;
+    text-align: left;
+    font: italic normal 300 34px/46px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+h5.ola {
+    position: absolute;
+    top: 533px;
+    left: 848px;
+    width: 65px;
+    height: 46px;
+    text-align: left;
+    font: normal normal bold 34px/46px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+p.sougil {
+    position: absolute;
+    top: 600px;
+    left: 848px;
+    width: 518px;
+    height: 305px;
+    text-align: left;
+    font: normal normal 600 21px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+img.linkedin {
+    position: absolute;
+    border-radius: 50%;
+    top: 477px;
+    left: 577px;
+    width: 58px;
+    height: 58px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+li.link {
+    position: absolute;
+    list-style: none;
+    top: 530px;
+    left: 589px;
+    width: 29px;
+    height: 11px;
+    text-align: left;
+    font: normal normal 600 8px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+img.curriculo {
+    position: absolute;
+    border-radius: 50%;
+    top: 477px;
+    left: 656px;
+    width: 58px;
+    height: 58px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+li.link2 {
+    position: absolute;
+    list-style: none;
+    top: 531px;
+    left: 667px;
+    width: 36px;
+    height: 11px;
+    text-align: left;
+    font: normal normal 600 8px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+img.github {
+    position: absolute;
+    border-radius: 50%;
+    top: 477px;
+    left: 735px;
+    width: 58px;
+    height: 58px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+li.link3 {
+    position: absolute;
+    list-style: none;
+    top: 531px;
+    left: 749px;
+    width: 67px;
+    height: 11px;
+    text-align: left;
+    font: normal normal 600 8px/34px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}

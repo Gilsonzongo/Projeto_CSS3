@@ -1,0 +1,12 @@
+img.circle-image {
+    position: absolute;
+    border-radius: 50%;
+    top: 5px;
+    left: 554px;
+    width: 58px;
+    height: 58px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}

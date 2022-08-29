@@ -1,0 +1,256 @@
+div.Projetos {
+    position: absolute;
+    top: 1555px;
+    left: 0px;
+    width: 1921px;
+    height: 518px;
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+h1.Projetos {
+    position: absolute;
+    top: 16px;
+    left: 554px;
+    width: 185px;
+    height: 73px;
+    text-align: left;
+    font: normal normal 300 55px/73px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.content {
+    position: absolute;
+    top: 113px;
+    left: 554px;
+    width: 260px;
+    height: 335px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.card {
+    position: absolute;
+    top: 17px;
+    left: 13px;
+    width: 232px;
+    height: 129px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.midiaCard {
+    position: absolute;
+    background: url(/Imagem/projeto1.jpg)center/cover;
+    width: 232px;
+    height: 129px;
+}
+
+h2.title {
+    position: absolute;
+    top: 140px;
+    left: -1px;
+    width: 167px;
+    height: 28px;
+    text-align: left;
+    font: normal normal bold 21px/28px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+p.informção {
+    position: absolute;
+    top: 176px;
+    left: 0px;
+    width: 232px;
+    height: 76px;
+    text-align: left;
+    font: normal normal normal 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+span.bottomCard {
+    position: absolute;
+    top: 275px;
+    left: 0px;
+    width: 114px;
+    height: 31px;
+    background: #585858 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+span.bottomCard01 {
+    position: absolute;
+    top: 276px;
+    left: 126px;
+    width: 110px;
+    height: 31px;
+    background: #585858 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+a.REPOSITORIO {
+    position: absolute;
+    top: 281px;
+    left: 8px;
+    width: 78px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 12px/16px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+a.VER.DEMO {
+    position: absolute;
+    top: 281px;
+    left: 143px;
+    width: 78px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 12px/16px Segoe UI;
+    letter-spacing: 0px;
+    color: #ffffff;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+/*  Projeto 2 */
+
+.content2 {
+    position: absolute;
+    top: 115px;
+    left: 852px;
+    width: 260px;
+    height: 335px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.card2 {
+    position: absolute;
+    top: 17px;
+    left: 13px;
+    width: 232px;
+    height: 129px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.midiaCard2 {
+    position: absolute;
+    background: url(/Imagem/projeto2.jpg)center/cover;
+    width: 232px;
+    height: 129px;
+}
+
+h2.title2 {
+    position: absolute;
+    top: 140px;
+    left: -1px;
+    width: 167px;
+    height: 28px;
+    text-align: left;
+    font: normal normal bold 21px/28px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+p.informção2 {
+    position: absolute;
+    top: 176px;
+    left: 0px;
+    width: 232px;
+    height: 76px;
+    text-align: left;
+    font: normal normal normal 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+span.bottomCard2 {
+    position: absolute;
+    top: 275px;
+    left: 0px;
+    width: 114px;
+    height: 31px;
+    background: #585858 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+span.bottomCard02 {
+    position: absolute;
+    top: 276px;
+    left: 126px;
+    width: 110px;
+    height: 31px;
+    background: #585858 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+a.REPOSITORIO2 {
+    position: absolute;
+    top: 281px;
+    left: 8px;
+    width: 78px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 12px/16px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+a.VER.DEMO2 {
+    position: absolute;
+    top: 281px;
+    left: 143px;
+    width: 78px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 12px/16px Segoe UI;
+    letter-spacing: 0px;
+    color: #ffffff;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+/*  Projeto 3 */
+
+.content3 {
+    position: absolute;
+    /* Layout Properties */
+    top: 115px;
+    left: 1150px;
+    width: 260px;
+    height: 335px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}
+.midiaCard3 {
+    position: absolute;
+    background: url(/Imagem/projeto3.jpg)center/cover;
+    width: 232px;
+    height: 129px;
+}

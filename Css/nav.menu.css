@@ -1,0 +1,74 @@
+a.APRESENTAÇÃO {
+    position: absolute;
+    top: 26px;
+    left: 906px;
+    width: 104px;
+    height: 17px;
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+a.FORMAÇÃO {
+    position: absolute;
+    top: 26px;
+    left: 1031px;
+    width: 74px;
+    height: 17px;
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+a.EXPERIÊNCIA {
+    position: absolute;
+    top: 26px;
+    left: 1126px;
+    width: 82px;
+    height: 17px;
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+a.PROJETOS {
+    position: absolute;
+    top: 26px;
+    left: 1229px;
+    width: 63px;
+    height: 17px;
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+a.FALE.COMIGO {
+    position: absolute;
+    top: 26px;
+    left: 1313px;
+    width: 91px;
+    height: 17px;
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
