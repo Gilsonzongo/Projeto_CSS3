@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.body{
+color: #ff0000;
+}
+
+form#form {
+    text-align: center;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.form-group {
+    text-align: center;
+
+}
+
+.container {
+    text-align: center;
+}
+
+input#username {
+    border: 3px solid #4ECA64;
+    top: 2287px;
+    left: 968px;
+    width: 398px;
+    height: 34px;
+    border-radius: 4px;
+    opacity: 1;
+}
+button.btn.btn-danger.ml-4 {
+    left: 1112px;
+    width: 122px;
+    height: 34px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+}
+input#username {
+    border: 3px solid #ff0000;
+    top: 2287px;
+    left: 968px;
+    width: 398px;
+    height: 34px;
+    border-radius: 12px;
+    opacity: 1;
+}
